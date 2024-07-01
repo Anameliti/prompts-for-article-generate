@@ -11,7 +11,7 @@
 
 <p align="center">
 <img 
-    src="./assets/images/capa2.PNG"
+    src="./assets/artigo.PNG"
     width="400"  
 />
 </p>
